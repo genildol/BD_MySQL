@@ -36,3 +36,42 @@ BD_MySQL</h1>
   </tbody>
   <tfoot></tfoot>
 </table>
+
+<hr>
+
+
+## Estrutura do Projeto
+🔵 Administrador de Dados e um DBA
+
+🔵 Banco de Dados consistentes do ponto de infraestrutura e modelagem.
+
+🔵 Executar a linguagem SQL - Structured Query Language
+
+🔵 Banco de Dados Oracle
+
+🔵 Banco de Dados SQL Server
+
+🔵 Programação em Banco de Dados
+
+🔵 Backups e Restores de Bancos de Dados
+
+🔵 Aplicar Constraints
+
+🔵 Aplicar as Formas Normais
+
+🔵 Criar Triggers, Procedures, Functions e Views
+
+🔵 Dicionário de Dados
+
+🔵 Disciplina Banco de Dados
+
+🔵 Downloads de softwares relacionados a banco de dados
+
+🔵 Utilização de softwares de modelagem
+
+🔵 Relacionamentos 1 x 1 , 1 x N, N x N
+
+🔵 Generalização e Autorelacionamento e compreensão
+
+
+
